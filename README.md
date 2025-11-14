@@ -49,4 +49,3 @@ All projects aim to follow:
 
 
 **Thank you for visiting — enjoy exploring the projects!**
-
